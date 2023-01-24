@@ -1,0 +1,8 @@
+[
+  {
+    "nombre": "Nivel",
+    "precio": "13321",
+    "thumbnail": "https://cdn4.iconfinder.com/data/icons/construction-machines-and-tools/64/bubble-spirit-level-tool-construction-balance-meter-256.png",
+    "id": 1
+  }
+]
